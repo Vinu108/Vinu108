@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Vinay Kumar</h1>
+<h3 align="center">Shopify Developer from India 🇮🇳</h3>
 
-<!--
-**Vinu108/Vinu108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&width=500&lines=Shopify+Developer;JavaScript+Developer;Learning+Shopify+CLI;Liquid+Expert" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 💼 Shopify Theme Developer
+- 🌱 Currently learning **Shopify CLI**
+- 💻 HTML, CSS, JavaScript, jQuery, Liquid
+- 📍 India
+
+### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN)
