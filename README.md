@@ -6,6 +6,7 @@ I'm a Full-Stack Web Developer based in Minnesota, United States. I enjoy buildi
 🎓 I have many certificates in programming.
 ⚡ Fun fact: In my free time, you can find me fishing in the 'Land of 10,000 Lakes.'
 Get in Touch
+<img width="495" height="195" alt="image" src="https://github.com/user-attachments/assets/200db455-0d81-4947-a6bf-c9df231b0382" />
 
 
 Feel free to connect with me on LinkedIn and send me a private message. I'm always open to interesting projects and collaborations.
