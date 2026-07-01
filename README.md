@@ -1,10 +1,9 @@
-<h1 align="center">Hi 👋, I'm Vinay Kumar</h1>
-<h3 align="center">Shopify Developer from India 🇮🇳</h3>
+<h1 align="start">Hi 👋, I'm Vinay Kumar</h1>
+<h3 align="start">Shopify Developer from India 🇮🇳</h3>
 
-<p align="center">
+<p align="start">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&width=500&lines=Shopify+Developer;JavaScript+Developer;Learning+Shopify+CLI;Liquid+Expert" />
 </p>
-
 ---
 
 ### 🚀 About Me
