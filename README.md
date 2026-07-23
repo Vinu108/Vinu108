@@ -10,7 +10,7 @@
 ## 🚀 About Me
 
 - 💼 Shopify Frontend & Theme Developer
-- 🌱 Currently learning **Shopify CLI**
+- 🌱 **Shopify CLI**
 - 🎯 Passionate about building high-converting Shopify storefronts
 - 🎨 Convert **Figma to Shopify** with pixel-perfect accuracy
 - ⚡ Focused on performance, responsive design, and clean code
